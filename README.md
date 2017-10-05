@@ -6,3 +6,5 @@ ipython notebook GPasteroseis: read in text file, and fit lightcurve using a thr
 Edited branch.
 
 test
+
+test2
